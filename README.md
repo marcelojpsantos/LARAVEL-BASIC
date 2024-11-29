@@ -22,4 +22,6 @@
 - Docente de Analise de Sistema Desvolvimento de Software- Câmpus JABOATÃO
 - Instituto Federal de Pernambuco - Câmpus JABOATÃO
 - IFPE: https://portal.ifpe.edu.br/
+- UNFG : https://www.unifg.edu.br/
+- UNIFG: CIÊNCIA DA COMPUTAÇÃO
 -------------------------------------------------------------------------------------------------
