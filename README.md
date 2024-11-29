@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------------
-###LARAVEL ADVANCED PHP BRORSTRAP5-FRONT-END/BACK-END
- LARAVEL ADVANCED PHP PADRÃO FRONT-END
-[LARAVEL PADÃO ADVANCED](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
+###LARAVEL BASIC PHP BRORSTRAP5-FRONT-END/BACK-END
+ LARAVEL BASIC PHP PADRÃO FRONT-END
+[LARAVEL PADÃO](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
 #### PHP Framework 
 [PHP Framework ](https://laravel.com/)
 #### TECNOLOGIAS
