@@ -10,7 +10,7 @@
 #### PHP 7,8 
 #### LARAVEL FRAMEWORK
  
-#### LARAVEL ADVANCED PADRÃO 
+#### LARAVEL BASIC PADRÃO 
 [W3Schools](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
 #### PHP Framework 
 [PHP Framework ](https://laravel.com/)
